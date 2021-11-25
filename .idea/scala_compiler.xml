@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="convex_hull_of_a_simple_polygon,convex_hull_of_a_simple_polygon_8346" />
+  </component>
+</project>
